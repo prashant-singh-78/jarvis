@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+google-generativeai
+google-genai
+PyAudio
+opencv-python
+mediapipe
+pycaw
